@@ -1,0 +1,11 @@
+{
+  "name": "@ss49919201/file-to-b64",
+  "version": "0.0.1",
+  "description": "Encode the file to base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ss49919201",
+  "license": "MIT"
+}
