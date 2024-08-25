@@ -10,6 +10,7 @@
   "author": "ss49919201",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^22.5.0",
     "typescript": "^5.5.4"
   }
 }
