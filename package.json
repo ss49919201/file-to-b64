@@ -1,6 +1,6 @@
 {
   "name": "file-to-b64",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Encode the file to base64",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
